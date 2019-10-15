@@ -1,0 +1,18 @@
+path;filename;date;size;extension;duration
+ . ; . ; 10/01/2019 15:13:05 ; 192 ;  ;  ; 
+ ./.DS_Store ; .DS_Store ; 10/01/2019 15:15:04 ; 8196 ; DS_Store ;  ; 
+ ./INTRO ; INTRO ; 10/01/2019 15:13:22 ; 352 ; INTRO ;  ; 
+ ./INTRO/music ; music ; 10/01/2019 18:33:36 ; 128 ; music ;  ; 
+ ./INTRO/music/SampleAudio_0.7mb.mp3 ; SampleAudio_0.7mb.mp3 ; 10/01/2019 15:19:05 ; 725240 ; mp3 ; 45.326875 ; 
+ ./INTRO/music/SampleAudio_0.4mb.mp3 ; SampleAudio_0.4mb.mp3 ; 10/01/2019 15:19:47 ; 443926 ; mp3 ; 27.744750 ; 
+ ./INTRO/.DS_Store ; .DS_Store ; 10/01/2019 15:51:47 ; 6148 ; DS_Store ;  ; 
+ ./INTRO/myscript_echo ; myscript_echo ; 10/01/2019 14:18:00 ; 604 ; myscript_echo ;  ; 
+ ./INTRO/myscript ; myscript ; 10/01/2019 14:18:00 ; 463 ; myscript ;  ; 
+ ./INTRO/folder ; folder ; 10/01/2019 18:33:26 ; 96 ; folder ;  ; 
+ ./INTRO/folder/screenshot.png ; screenshot.png ; 10/01/2019 13:55:29 ; 511214 ; png ; N/A ; 
+ ./INTRO/pop.csv ; pop.csv ; 10/01/2019 20:02:45 ; 70 ; csv ;  ; 
+ ./INTRO/directory ; directory ; 10/01/2019 18:33:14 ; 64 ; directory ;  ; 
+ ./INTRO/SampleVideo_1280x720_20mb.mp4 ; SampleVideo_1280x720_20mb.mp4 ; 10/01/2019 15:16:18 ; 21069678 ; mp4 ; 117.312000 ; 
+ ./INTRO/image.png ; image.png ; 10/01/2019 13:56:36 ; 15132 ; png ; N/A ; 
+ ./file.xls ; file.xls ; 10/01/2019 20:56:36 ; 959 ; xls ;  ; 
+ ./file.csv ; file.csv ; 10/01/2019 22:32:35 ; 1316 ; csv ;  ; 

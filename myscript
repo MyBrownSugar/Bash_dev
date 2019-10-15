@@ -1,0 +1,25 @@
+#!/bin/bash
+#Improving
+
+cd /Users/imac/Desktop/BASH/
+
+rm file.csv
+
+tree -h
+
+echo "path;filename;date;size;extension;duration" >> file.csv
+
+for var in $(find .)
+do
+
+xbase=${var##*/}
+xfext=${xbase##*.}
+
+size=$(stat -f %z "$var")
+MUSIC_LENGTH=$(ffprobe -v quiet  -print_format ini  -show_format  "$var" | grep duration | sed s/duration=//)
+DATE=$(GetFileInfo -d $var)
+
+
+echo " $var ; $(basename $var) ; $DATE ; $size ; ${xfext} ; $MUSIC_LENGTH ; " >> file.csv
+
+done
